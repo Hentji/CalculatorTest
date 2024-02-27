@@ -1,7 +1,5 @@
 // lib/calculator.dart
 
-import 'dart:math';
-
 class Calculator {
   double add(double a, double b) {
     throw UnimplementedError();
